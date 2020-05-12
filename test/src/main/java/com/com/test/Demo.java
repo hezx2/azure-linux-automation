@@ -17,6 +17,8 @@ public class Demo {
         String bb = "bb";
         String ff = "fff";
 
+        String yy = "yy";
+
 
     }
 
