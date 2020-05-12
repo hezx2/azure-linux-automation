@@ -15,6 +15,7 @@ public class Demo {
         String kk = "kk11";
         String nn = "nn";
         String ff = "fff";
+        String gg = "ccc";
 
 
     }
