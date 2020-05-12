@@ -18,7 +18,7 @@ public class Demo {
         String ff = "fff";
         String gg = "ccc";
 
-        String yy = "yy";
+        String yy = "cccYYY";
 
 
     }
