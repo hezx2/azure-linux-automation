@@ -16,7 +16,7 @@ public class Demo {
         String nn = "nn";
         String bb = "bb";
         String ff = "fff";
-        String gg = "ccc";
+        String gg = "xxx";
 
         String yy = "yy";
 
